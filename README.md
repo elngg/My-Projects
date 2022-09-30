@@ -19,7 +19,7 @@ Open and check it out!
 
 ### Screenshot
 
-![https://github.com/elngg/My-Projects/blob/1d0985b94b370454683547be7baf51a7a0656a4d/Design%231%20-%20Build%20QR%20code%20componen.PNG](./screenshot.jpg)
+![]([./screenshot.jpg](https://github.com/elngg/My-Projects/blob/1d0985b94b370454683547be7baf51a7a0656a4d/Design%231%20-%20Build%20QR%20code%20componen.PNG))
 
 ### Links
 
