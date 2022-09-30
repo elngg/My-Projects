@@ -18,8 +18,8 @@ In this project, you will be able to find out the solution for building the QR c
 Open and check it out!
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/109924863/193176597-a80b14d2-7a4d-4678-a7fa-5fad8258dd43.png)
 
-![]([./screenshot.jpg](https://github.com/elngg/My-Projects/blob/1d0985b94b370454683547be7baf51a7a0656a4d/Design%231%20-%20Build%20QR%20code%20componen.PNG))
 
 ### Links
 
