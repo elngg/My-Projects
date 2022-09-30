@@ -19,9 +19,7 @@ Open and check it out!
 
 ### Screenshot
 
-![![image](https://user-images.githubusercontent.com/109924863/193174326-9baac8db-504b-4100-9b81-57a3e5231df2.png)
-](./screenshot.jpg)
-
+![https://4g6j3k.csb.app/](./screenshot.jpg)
 
 ### Links
 
