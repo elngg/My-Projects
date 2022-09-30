@@ -19,7 +19,7 @@ Open and check it out!
 
 ### Screenshot
 
-![https://4g6j3k.csb.app/](./screenshot.jpg)
+Design#1 - Build QR code componen.PNG
 
 ### Links
 
